@@ -2,4 +2,4 @@ rest:
   service:
     cloud:
       config:
-        example: GitRepository example value for private service
+        example: GitRepository example value for private service modificado
